@@ -8,3 +8,6 @@ echo "hello"
 echo "Enter your name"
 read name
 echo "hi $name how are you?"
+echo "Enter your father name"
+read father
+echo "Hello Mr $father, How are you"
